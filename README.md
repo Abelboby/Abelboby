@@ -25,8 +25,5 @@ Hi, I'm **Abel Boby**! 🚀 A passionate developer with a knack for creating inn
 ## 🌱 Exploring
 I'm diving deeper into **blockchain development**, **API integrations**, and **cloud-native solutions**.
 
-## 💬 Connect With Me
-Got an idea? Let's collaborate! Reach out via [GitHub](https://github.com/Abelboby).
-
 ## ✨ Fun Fact
 When not coding, you can find me brainstorming wild ideas, experimenting with new tech, or planning adventures with friends.
